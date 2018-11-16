@@ -1,0 +1,29 @@
+Customer name,Customer relationship manager                                                 (Note that this is optional but must exactly match the display name of a user on the site if entered),Customer group ,Description of the customer
+Tourism,First Category Manager,Tourism,A description of Tourism
+,,,
+#@$$^$#$,First Category Manager,South Africa,
+,,,
+#@$$^$#$%^%,Gmail admin,,Undefined description
+South Africa,Second Forecaster,South Africa,
+Australia,Forecaster first Forecaster last,Australia,A description of Australia
+International,First Guest,International,A description of International
+Customer number 5,,%^%**^%$^%^  ###,
+Customer number 6,not a customer relationship manager,%^%**^%$^%^  ###,A description of Customer number 6
+Customer number 7,New Category Manager,International,A description of Customer number 7
+Customer number 8,First Category Manager,International,A description of Customer number 8
+Customer number 9,Second Forecaster,Not a customer group,A description of Customer number 9
+Customer number 10,Forecaster first Forecaster last,International,A description of Customer number 10
+Customer number 11,First Guest,International,
+Customer number 12,Area Manager,Australia,
+Customer number 12,,Australia,Duplicated Customer name
+Customer number 14,,Australia,
+Customer number 15,First Category Manager,Australia,
+Customer number 16,Second Forecaster,Australia,
+Customer number 17,Forecaster first Forecaster last,International,
+Customer number 18,First Guest,Australia,A description of Customer number 18
+Customer number 19,,International,A description of Customer number 19
+Customer number 20,Second Area Manager,Australia,A description of Customer number 20
+Customer number 21,New Category Manager,,
+Customer number 22,First Category Manager,,A description of Customer number 22
+Customer number 23,Second Forecaster,Junk customer group 1,A description of Customer number 23
+Customer number 24,Forecaster first Forecaster last,Australia,A description of Customer number 24

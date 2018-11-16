@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<Environment>
+	
+	
+	<Variable>
+		<Name>Env_DB_URL</Name>
+		<Value>jdbc:mysql://localhost</Value>
+	</Variable>
+	<Variable>
+		<Name>Env_DB_Username</Name>
+		<Value>root</Value>
+	</Variable>
+	<Variable>
+		<Name>Env_DB_Password</Name>
+		<Value></Value>
+	</Variable>
+	<Variable>
+		<Name>Env_DB_Name</Name>
+		<Value>soplan</Value>
+	</Variable>
+	<Variable>
+		<Name>Env_ApplicationURL</Name>
+		<Value>http://www.so-plan.info/Login.aspx</Value>
+        </Variable><Variable>
+		<Name>Env_Is_Login_Required</Name>
+		<Value>YES</Value></Variable><Variable>
+		<Name>Env_Is_Menu_Navigation_Required</Name>
+		<Value>YES</Value></Variable><Variable>
+		<Name>Env_SOP_Username</Name>
+		<Value>fsadminlogin@gmail.com</Value>
+	</Variable>
+	<Variable>
+		<Name>Env_SOP_Password</Name>
+		<Value>password12</Value>
+	</Variable>
+	<Variable>
+		<Name>Env_Second_Username</Name>
+		<Value>FSAdmLogin@gmail.com</Value>
+	</Variable>
+	<Variable>
+		<Name>Env_Second_Password</Name>
+		<Value>password12</Value>
+	</Variable>
+	<Variable>
+		<Name>Env_Third_Username</Name>
+		<Value>FSAreaManager@gmail.com</Value></Variable>
+	<Variable>
+		<Name>Env_Third_Password</Name>
+		<Value>hello12</Value></Variable>
+
+	<Variable>
+		<Name>Env_Stop_Execution_on_Fail</Name>
+		<Value>NO</Value>
+        </Variable>
+	
+	<Variable>
+		<Name>Env_ResultPath</Name>
+		<Value>C:/Users/Jegan/Desktop/sop/Results/</Value>
+	</Variable><Variable>
+		<Name>Env_Iteration</Name>
+		<Value>1</Value>
+	</Variable>
+</Environment>

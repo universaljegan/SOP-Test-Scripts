@@ -1,0 +1,14 @@
+First Name,Last Name,e-mail,Display Name
+First Category Manager,Category Manager Last,FSCategoryManageratgmail.com,First Category Manager
+,Forecaster Last,FSForecaster@gmail.com,First Forecaster
+Guest First,,FSGuestLogin5@gmail.com,
+Second Guest First,,,Second Guest
+,,,
+Duplicate,Other company,FSAdmLogin@gmail.com,Duplicate Admin
+Duplicate,Other company,fsguestlogin2@gmail.com,Duplicate User
+,,,
+,,,
+Duplicate,This company,FSAdminLogin@gmail.com,Duplicate Admin
+Duplicate,This company,FSForecaster@gmail.com,Duplicate User
+New user,,,
+Valid first,Valid second,FSGuestLogin6@gmail.com,Valid Guest login
